@@ -25,14 +25,14 @@ root/
 ```
       
 ## How to Run Locally
-Windows (PowerShell/CMD):
+### Windows (PowerShell/CMD):
 ## Compile
 javac -cp ".;lib/gson-2.11.0.jar" OnlineQuizApp.java
 
 ## Run
 java -cp ".;lib/gson-2.11.0.jar" OnlineQuizApp
 
-Linux / macOS / Git Bash:
+### Linux / macOS / Git Bash:
 ## Compile
 javac -cp ".:lib/gson-2.11.0.jar" OnlineQuizApp.java
 
@@ -42,6 +42,9 @@ java -cp ".:lib/gson-2.11.0.jar" OnlineQuizApp
 ## Sample Output
 🌐 Welcome to the Online Quiz Game!
 ----------------------------------
+```text
+🌐 Welcome to the Online Quiz Game!
+----------------------------------
 
 Question: Which company developed the video game Minecraft?
 A. Sony
@@ -49,9 +52,11 @@ B. Mojang
 C. Nintendo
 D. Ubisoft
 Enter your answer (A/B/C/D): B
-✅ Correct!
-Do you want to continue the game? (yes/no):
 
+✅ Correct!
+
+Do you want to continue the game? (yes/no): 
+```
 ## Future Improvements
 Category Selection: Allow users to choose specific topics (Science, History, Tech).
 Timer: Add a countdown timer for each question to increase difficulty.
