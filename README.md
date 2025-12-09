@@ -17,11 +17,15 @@ Handles HTML entities in questions and answers (e.g., " or ').
 * **Tools:** VS Code
 
 ## Project Structure
+## 📂 Project Structure
+```text
 root/
 ├── lib/
-│   └── gson-2.11.0.jar   
-├── OnlineQuizApp.java    
-└── README.md             
+│   └── gson-2.11.0.jar   # External dependency for JSON parsing
+├── OnlineQuizApp.java    # Main source code
+└── README.md             # Documentation
+```
+      
 ## How to Run Locally
 Windows (PowerShell/CMD):
 ## Compile
