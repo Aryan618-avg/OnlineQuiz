@@ -10,10 +10,11 @@ Option to continue or exit the game at any time.
 Handles HTML entities in questions and answers (e.g., " or ').
 
 ## Technologies Used
-Language: Java (JDK 11+)
-Libraries: Google Gson (2.11.0)
-API: Open Trivia DB
-Tools: VS Code
+### Technologies Used
+* **Language:** Java (JDK 11+)
+* **Libraries:** Google Gson (2.11.0)
+* **API:** Open Trivia DB
+* **Tools:** VS Code
 
 ## Project Structure
 root/
