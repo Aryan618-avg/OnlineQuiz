@@ -18,22 +18,22 @@ Open Trivia Database API
 ## Project Structure
 root/
 ├── lib/
-│   └── gson-2.11.0.jar   # External dependency for JSON parsing
-├── OnlineQuizApp.java    # Main source code
-└── README.md             # Documentation
+│   └── gson-2.11.0.jar   
+├── OnlineQuizApp.java    
+└── README.md             
 ## How to Run Locally
 Windows (PowerShell/CMD):
-# Compile
+## Compile
 javac -cp ".;lib/gson-2.11.0.jar" OnlineQuizApp.java
 
-# Run
+## Run
 java -cp ".;lib/gson-2.11.0.jar" OnlineQuizApp
 
 Linux / macOS / Git Bash:
-# Compile
+## Compile
 javac -cp ".:lib/gson-2.11.0.jar" OnlineQuizApp.java
 
-# Run
+## Run
 java -cp ".:lib/gson-2.11.0.jar" OnlineQuizApp
 
 ## Sample Output
