@@ -53,15 +53,15 @@ C. Nintendo
 D. Ubisoft
 Enter your answer (A/B/C/D): B
 
-✅ Correct!
+ Correct!
 
 Do you want to continue the game? (yes/no): 
 ```
 ## Future Improvements
-Category Selection: Allow users to choose specific topics (Science, History, Tech).
-Timer: Add a countdown timer for each question to increase difficulty.
-Database Integration: Save high scores using a local database or file system.
-GUI: Upgrade from CLI to a graphical interface using JavaFX.
+* **Category Selection:** Allow users to choose specific topics (Science, History, Tech).
+* **Timer:** Add a countdown timer for each question to increase difficulty.
+* **Database Integration:** Save high scores using a local database or file system.
+* **GUI:** Upgrade from CLI to a graphical interface using JavaFX.
 
 
 
