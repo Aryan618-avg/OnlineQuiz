@@ -39,8 +39,6 @@ javac -cp ".:lib/gson-2.11.0.jar" OnlineQuizApp.java
 java -cp ".:lib/gson-2.11.0.jar" OnlineQuizApp
 
 ## Sample Output
-🌐 Welcome to the Online Quiz Game!
-----------------------------------
 ```text
 🌐 Welcome to the Online Quiz Game!
 ----------------------------------
