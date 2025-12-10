@@ -1,6 +1,7 @@
-# Online Quiz App
+# Java Real-Time Trivia System
 ## Project Description
-Online Quiz App is a simple, interactive Java-based console application that allows users to play a multiple-choice quiz game. Questions are fetched dynamically from the Open Trivia Database (OpenTDB) API, providing a new and random set of questions every time you play. This project demonstrates API integration, JSON parsing using Gson, and basic Java programming skills.
+Java Real-Time Trivia System is a simple, interactive Java-based console application that allows users to play a multiple-choice quiz game. Questions are fetched dynamically from the Open Trivia Database (OpenTDB) API, providing a new and random set of questions every time you play. This project demonstrates API integration, JSON parsing using Gson, and core Java programming concepts.
+
 ## Features
 * **Real-time Data Fetching:** Uses `java.net.http.HttpClient` to connect to a live API.
 * **JSON Parsing:** Robust handling of API responses using Google's **Gson** library.
